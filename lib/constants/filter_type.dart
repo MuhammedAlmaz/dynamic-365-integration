@@ -1,0 +1,1 @@
+enum FilterType { stateCode, stateOrProvince }
